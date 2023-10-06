@@ -1,5 +1,6 @@
 # Korys-Diner
 Kory's Diner is a web app that allows users to create orders, add items to the shopping cart, and complete orders by filling out card payment information visually.
+You can access live app link Here: https://dashing-tanuki-8249eb.netlify.app/
 
 To run this project locally, follow these steps:
 
